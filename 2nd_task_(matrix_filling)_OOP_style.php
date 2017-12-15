@@ -40,7 +40,8 @@ class SpecificMatrix
     /**
      *
      */
-    public function clear() {
+    public function clear()
+    {
         $this->matrix = null;
     }
 }
