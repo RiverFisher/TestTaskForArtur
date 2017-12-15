@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT a.id) FROM A a WHERE a.id > 0
